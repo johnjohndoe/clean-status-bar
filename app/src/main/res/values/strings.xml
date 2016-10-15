@@ -33,6 +33,16 @@
     <string name="green">Green</string>
     <string name="yellow">Yellow</string>
     <string name="red">Red</string>
+    <string name="umweltzone" translatable="false">Umweltzone</string>
+    <string name="altglas" translatable="false">Altglas</string>
+    <string name="pgcon" translatable="false">PGCon</string>
+    <string name="fossgis" translatable="false">FOSSGIS</string>
+    <string name="froscon" translatable="false">FrOSCon</string>
+    <string name="foss4g" translatable="false">FOSS4G</string>
+    <string name="mrmcd" translatable="false">MRMCD</string>
+    <string name="hackover" translatable="false">Hackover</string>
+    <string name="datenspuren" translatable="false">Datenspuren</string>
+    <string name="fosdem" translatable="false">FOSDEM</string>
 
     <!-- ColourPreference -->
     <string name="title_delete_colour">Delete colour</string>
