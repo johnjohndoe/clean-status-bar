@@ -56,6 +56,7 @@
         <item>@string/datenspuren</item>
         <item>@string/fosdem</item>
         <item>@string/ccc34c3</item>
+        <item>@string/gpn</item>
     </string-array>
 
     <!-- can't reuse other colours as will fail at runtime-->
@@ -78,6 +79,7 @@
         <item>#2D0F62</item>
         <item>#8e2879</item>
         <item>#701321</item>
+        <item>#260300</item>
     </string-array>
 
 </resources>

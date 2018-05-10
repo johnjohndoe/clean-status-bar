@@ -44,6 +44,7 @@
     <string name="datenspuren" translatable="false">Datenspuren</string>
     <string name="fosdem" translatable="false">FOSDEM</string>
     <string name="ccc34c3" translatable="false">34C3</string>
+    <string name="gpn" translatable="false">GPN</string>
 
     <!-- ColourPreference -->
     <string name="title_delete_colour">Delete colour</string>
