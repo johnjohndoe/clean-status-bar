@@ -57,6 +57,7 @@
         <item>@string/fosdem</item>
         <item>@string/ccc34c3</item>
         <item>@string/gpn</item>
+        <item>@string/droidconberlin</item>
     </string-array>
 
     <!-- can't reuse other colours as will fail at runtime-->
@@ -80,6 +81,7 @@
         <item>#8e2879</item>
         <item>#701321</item>
         <item>#260300</item>
+        <item>#bf9004</item>
     </string-array>
 
 </resources>
