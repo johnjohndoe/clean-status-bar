@@ -47,6 +47,7 @@
     <string name="gpn" translatable="false">GPN</string>
     <string name="droidconberlin" translatable="false">Droidcon Berlin</string>
     <string name="bitsundbaeume" translatable="false">Bits + Bäume</string>
+    <string name="kotlinconf" translatable="false">KotlinConf</string>
 
     <!-- ColourPreference -->
     <string name="title_delete_colour">Delete colour</string>
