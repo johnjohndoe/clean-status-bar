@@ -58,6 +58,7 @@
         <item>@string/ccc34c3</item>
         <item>@string/gpn</item>
         <item>@string/droidconberlin</item>
+        <item>@string/bitsundbaeume</item>
     </string-array>
 
     <!-- can't reuse other colours as will fail at runtime-->
@@ -82,6 +83,7 @@
         <item>#701321</item>
         <item>#260300</item>
         <item>#bf9004</item>
+        <item>#78a931</item>
     </string-array>
 
 </resources>
