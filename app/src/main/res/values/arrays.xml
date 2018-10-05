@@ -60,6 +60,7 @@
         <item>@string/droidconberlin</item>
         <item>@string/bitsundbaeume</item>
         <item>@string/kotlinconf</item>
+        <item>@string/fiffkon</item>
     </string-array>
 
     <!-- can't reuse other colours as will fail at runtime-->
@@ -86,6 +87,7 @@
         <item>#bf9004</item>
         <item>#78a931</item>
         <item>#252a62</item>
+        <item>#15693b</item>
     </string-array>
 
 </resources>
