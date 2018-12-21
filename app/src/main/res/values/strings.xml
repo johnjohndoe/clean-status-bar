@@ -49,6 +49,7 @@
     <string name="bitsundbaeume" translatable="false">Bits + Bäume</string>
     <string name="kotlinconf" translatable="false">KotlinConf</string>
     <string name="fiffkon" translatable="false">FIfFKon</string>
+    <string name="ccc35c3" translatable="false">35C3</string>
 
     <!-- ColourPreference -->
     <string name="title_delete_colour">Delete colour</string>

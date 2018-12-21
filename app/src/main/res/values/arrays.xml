@@ -61,6 +61,7 @@
         <item>@string/bitsundbaeume</item>
         <item>@string/kotlinconf</item>
         <item>@string/fiffkon</item>
+        <item>@string/ccc35c3</item>
     </string-array>
 
     <!-- can't reuse other colours as will fail at runtime-->
@@ -88,6 +89,7 @@
         <item>#78a931</item>
         <item>#252a62</item>
         <item>#15693b</item>
+        <item>#008a45</item>
     </string-array>
 
 </resources>
