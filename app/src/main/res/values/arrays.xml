@@ -62,6 +62,7 @@
         <item>@string/kotlinconf</item>
         <item>@string/fiffkon</item>
         <item>@string/ccc35c3</item>
+        <item>@string/tazlab</item>
     </string-array>
 
     <!-- can't reuse other colours as will fail at runtime-->
@@ -90,6 +91,7 @@
         <item>#252a62</item>
         <item>#15693b</item>
         <item>#008a45</item>
+        <item>#890a17</item>
     </string-array>
 
 </resources>

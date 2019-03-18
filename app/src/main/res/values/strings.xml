@@ -50,6 +50,7 @@
     <string name="kotlinconf" translatable="false">KotlinConf</string>
     <string name="fiffkon" translatable="false">FIfFKon</string>
     <string name="ccc35c3" translatable="false">35C3</string>
+    <string name="tazlab" translatable="false">taz lab</string>
 
     <!-- ColourPreference -->
     <string name="title_delete_colour">Delete colour</string>
