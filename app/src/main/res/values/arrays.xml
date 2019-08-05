@@ -63,6 +63,7 @@
         <item>@string/fiffkon</item>
         <item>@string/ccc35c3</item>
         <item>@string/tazlab</item>
+        <item>@string/camp2019</item>
     </string-array>
 
     <!-- can't reuse other colours as will fail at runtime-->
@@ -92,6 +93,7 @@
         <item>#15693b</item>
         <item>#008a45</item>
         <item>#890a17</item>
+        <item>#005383</item>
     </string-array>
 
 </resources>
