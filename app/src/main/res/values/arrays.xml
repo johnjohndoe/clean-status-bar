@@ -64,6 +64,7 @@
         <item>@string/ccc35c3</item>
         <item>@string/tazlab</item>
         <item>@string/camp2019</item>
+        <item>@string/ccc35c3</item>
     </string-array>
 
     <!-- can't reuse other colours as will fail at runtime-->
@@ -94,6 +95,7 @@
         <item>#008a45</item>
         <item>#890a17</item>
         <item>#005383</item>
+        <item>#B33900</item>
     </string-array>
 
 </resources>
