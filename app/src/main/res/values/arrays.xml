@@ -66,6 +66,7 @@
         <item>@string/camp2019</item>
         <item>@string/ccc35c3</item>
         <item>@string/divoc2020</item>
+        <item>@string/rc3</item>
     </string-array>
 
     <!-- can't reuse other colours as will fail at runtime-->
@@ -98,6 +99,7 @@
         <item>#005383</item>
         <item>#B33900</item>
         <item>#ad621b</item>
+        <item>#5100B5</item>
     </string-array>
 
 </resources>

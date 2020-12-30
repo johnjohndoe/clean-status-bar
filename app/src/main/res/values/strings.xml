@@ -54,6 +54,7 @@
     <string name="camp2019" translatable="false">CCCamp 2019</string>
     <string name="ccc36c3" translatable="false">36C3</string>
     <string name="divoc2020" translatable="false">DiVOC</string>
+    <string name="rc3" translatable="false">rC3</string>
 
     <!-- ColourPreference -->
     <string name="title_delete_colour">Delete colour</string>
